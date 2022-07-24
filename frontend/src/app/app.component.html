@@ -1,0 +1,16 @@
+<div class="outer">
+  <div class="buttons">
+    <button class="btn" mat-raised-button color="primary" (click)="newGuid()">Give me Guid</button>
+  </div>
+  <mat-divider></mat-divider>
+  <div class="guidcopy">
+    <div class="guid" [hidden]="!guid">
+      <p>{{guid}}</p>
+    </div>
+    <div class="copy" [hidden]="!guid">
+      <button mat-icon-button color="primary" [cdkCopyToClipboard]="getGuid()">
+        <mat-icon>file_copy</mat-icon>
+      </button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,11 @@
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\GuidGenerator.exe
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\GuidGenerator.dll
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\GuidGenerator.deps.json
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\GuidGenerator.runtimeconfig.json
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\GuidGenerator.pdb
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\WebDev\GuidGenerator\backend\GuidGenerator\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
